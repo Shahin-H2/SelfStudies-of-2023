@@ -7,5 +7,5 @@ def allPermutations(str):
             print(''.join(perm))
 # Driver program
 if __name__ == "__main__":
-      str = input("Enter your string : ")
+      str = input("Enter your string (rec. 4 digits like 1234): ")
       allPermutations(str)
