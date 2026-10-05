@@ -15,7 +15,9 @@ while True:
         print(f"""
         Dear {target_name}
         
-        The sad reality is that not everyone will be lucky to find the right one but here is wishing you find the right person that will bring so much joy and peace into your life and may your "Relationship" dreams come true.
+        The sad reality is that not everyone will be lucky to find the right one 
+        but here is wishing you find the right person that will bring so much joy and peace into your life 
+        and may your "Relationship" dreams come true.
         
         Hang in there!
         """)
