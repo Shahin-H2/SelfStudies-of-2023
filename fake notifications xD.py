@@ -1,3 +1,4 @@
+# this only works on windows and linux, not sure about macOS
 import time
 from plyer import notification
 
