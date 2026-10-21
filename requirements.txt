@@ -1,0 +1,3 @@
+# Only basics/break_reminder.py needs a third-party package;
+# every turtle script runs on the Python standard library alone.
+plyer>=2.1
